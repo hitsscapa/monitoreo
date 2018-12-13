@@ -1,0 +1,2 @@
+# monitoreo
+monitorear-compoenetes
